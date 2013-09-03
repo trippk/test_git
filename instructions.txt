@@ -1,8 +1,28 @@
+#
+#
+#
+#
+#lets play with git status for a bit
+git status
+#
+#modify something and then do:
+git add instructions.txt
+#
+git status
+#
+git commit instructions.txt -m "commiting a modification"
+#
+#now the change is commited inside the LOCAL respository
+#
+lets create a development branch
+git branch development
+#
+
+
 
 Hi, if you are here, it's all going well.
 Replace your  $USER to get DesySusy in your github
 repository, and replace DesuSusy with your name to get your code, if you have any.
-#
 #
 #
 #
