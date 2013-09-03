@@ -5,6 +5,7 @@ repository, and replace DesuSusy with your name to get your code, if you have an
 #
 #
 #
+#
 MYUSERCODE=DesySusy
 cvs2git --blobfile=git-blob.dat --dumpfile=git-dump.dat \
         /afs/cern.ch/project/cvs/reps/CMSSW/UserCode/$MYUSERCODE \
