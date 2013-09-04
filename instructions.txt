@@ -1,7 +1,7 @@
 #
 #
 #
-#lets play with git status for a bit
+lets play with git status for a bit
 git status
 #
 #modify something and then do:
